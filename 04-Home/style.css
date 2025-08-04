@@ -1,0 +1,122 @@
+/* 01 */
+/* body {
+  background: #e0f7fa; 
+  padding: 30px;
+  margin: 0;
+}
+
+.cards {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  position: relative;
+  flex: 1 1 220px;
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 6px 18px rgba(0, 150, 136, 0.3); 
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 32px rgba(0, 150, 136, 0.5);
+}
+
+.card h3 {
+  margin: 0 0 10px;
+  color: #00796b; 
+}
+
+.card p {
+  margin: 0;
+  color: #004d40;
+} */
+
+
+
+
+/* 02 */
+/* body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #f0f4f8;
+  padding: 30px;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.photo {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+  cursor: pointer;
+  background: #fff;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+.photo:hover {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+  border-radius: 12px;
+}
+
+.photo:hover img {
+  transform: scale(1.1);
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  opacity: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  text-align: center;
+  transition: opacity 0.4s ease;
+  border-radius: 12px;
+}
+
+.photo:hover .overlay {
+  opacity: 1;
+}
+
+.overlay p {
+  margin: 0 0 15px;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.overlay button {
+  padding: 8px 16px;
+  border: none;
+  background: #29b6f6;
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.overlay button:hover {
+  background: #0288d1;
+} */
