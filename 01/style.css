@@ -1,0 +1,79 @@
+
+
+/* 04 */
+/* body{
+    background-color: red;
+} */
+
+
+/* 05 */
+/* body p
+{
+    color: green;
+} */
+
+
+/* 06 */
+/* body p:first-child
+{
+    color: orange;
+} */
+
+
+
+/* 07 */
+/* body p:last-child
+{
+    color: orange;
+} */
+
+
+
+/* 08 */
+/* body p:nth-child(3)
+{
+    color: orange;
+} */
+
+
+
+/* 09 */
+/* body p:nth-child(2n)
+{
+    color: orange;
+} */
+
+
+
+/* 10 */
+/* body p:nth-child(2n+1)
+{
+    color: orange;
+} */
+
+
+
+  
+
+/* 11-12 */
+/* .myItem1
+{
+    color: red;
+} */
+
+
+
+
+
+/* 13 */
+/* .myItem1
+{
+    color: red;
+}
+
+.bigItem{
+    font-size: 25px;
+    font-weight: bold;
+} */
+
+

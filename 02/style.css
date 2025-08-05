@@ -1,0 +1,111 @@
+/* 01 */
+/* body {
+  background-color: #f9f9f9;
+  font-family: sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+p {
+  color: #333;
+  margin: 10px 0;
+}
+
+.highlight {
+  color: blue;
+  font-weight: bold;
+} */
+
+
+
+/* 02 */
+/* .box {
+      background-color: lightblue;
+      padding: 20px;  
+      margin: 30px; 
+      border: 2px solid blue;
+    } */
+
+
+
+
+
+
+/* 03 */
+/* .container {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      background-color: #f0f0f0;
+      padding: 20px;
+    }
+
+    .item {
+      background-color: lightcoral;
+      padding: 20px;
+      border-radius: 8px;
+      flex: 1 1 100px;
+      text-align: center;
+    } */
+
+
+
+
+
+/* 04 */
+/* .container {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.item {
+    background-color: lightseagreen;
+    padding: 20px;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    flex: 1 1 200px;
+} */
+
+
+
+/* 05 */
+ /* .card {
+      width: 250px;
+      padding: 20px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      transition: transform 0.25s ease, box-shadow 0.25s ease;
+      font-family: system-ui,-apple-system,BlinkMacSystemFont,sans-serif;
+      margin: 40px auto;
+      text-align: center;
+    }
+
+    .card:hover {
+      transform: scale(1.5);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+    }
+
+    h2 {
+      margin: 0 0 10px;
+      font-size: 1.3rem;
+    }
+
+    p {
+      margin: 0 0 15px;
+      color: #444;
+    } */
+
+
+
+
+
+
+
+
+
+
